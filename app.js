@@ -1,4 +1,4 @@
-//app.js
+//app.js 123
 const app = getApp()
 App({
   onLaunch: function () {
